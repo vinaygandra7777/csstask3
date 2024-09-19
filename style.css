@@ -1,0 +1,36 @@
+.v{
+    background-color: black;
+    color:rgb(94, 77, 245);
+    font-size: 20px;
+    text-align: center;
+
+}
+table,tr,td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin-left:340px;
+}
+td{
+    padding: 35px;
+}
+.m:hover{
+    cursor: pointer;
+    font-size: 100%;
+    
+
+}
+.v:hover{
+    cursor: pointer;
+    font-size: 100%;
+    
+}
+.m{
+    color:rgb(94, 77, 245);
+    font-size: 20px;
+    text-align: center;
+}
+.a td{
+    padding: 40px;
+}
